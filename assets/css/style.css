@@ -1,6 +1,15 @@
+/* General reset */
+body {
+    font-family: Arial, sans-serif;
+    margin: 0;
+    padding: 0;
+}
+
+/* Navbar styling */
 nav {
     background-color: #333;
     padding: 10px;
+    text-align: center;
 }
 
 nav ul {
@@ -8,14 +17,23 @@ nav ul {
     margin: 0;
     padding: 0;
     display: flex;
+    justify-content: center;
 }
 
 nav ul li {
-    margin-right: 15px;
+    margin: 0 15px;
 }
 
 nav ul li a {
     color: white;
     text-decoration: none;
     font-weight: bold;
+    padding: 10px 15px;
+    display: inline-block;
 }
+
+nav ul li a:hover {
+    background-color: #555;
+    border-radius: 5px;
+}
+
