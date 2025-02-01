@@ -1,7 +1,8 @@
 title: My Jekyll Blog
 description: Blogging with Jekyll on GitHub Pages
 baseurl: ""
-theme: jekyll-theme-minimal # You can change this to another Jekyll theme
+remote_theme: jekyll/minimal
+
 
 
 # Navigation Links
