@@ -1,0 +1,5 @@
+title: My Jekyll Blog
+description: Blogging with Jekyll on GitHub Pages
+baseurl: ""
+url: "https://<your-username>.github.io"
+theme: jekyll-theme-minimal # You can change this to another Jekyll theme
