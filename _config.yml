@@ -1,4 +1,5 @@
 title: My Jekyll Blog
 description: Blogging with Jekyll on GitHub Pages
 baseurl: ""
+url: "https://danmar0801.github.io/TheEngineeringJournal"
 theme: jekyll-theme-minimal # You can change this to another Jekyll theme
