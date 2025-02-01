@@ -3,3 +3,11 @@ description: Blogging with Jekyll on GitHub Pages
 baseurl: ""
 url: "https://danmar0801.github.io/TheEngineeringJournal"
 theme: jekyll-theme-minimal # You can change this to another Jekyll theme
+
+
+# Navigation Links
+nav:
+  - name: Home
+    link: /
+  - name: Blog
+    link: /blog
